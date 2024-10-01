@@ -1,4 +1,7 @@
 # MSITM.6341
 
+<<<<<<< Updated upstream
 # Jiwon's Favorite Programming Language: Java
-# David's Favorite Programming Language: Python
+=======
+# Jiwon's Favorite Programming Language: Python
+>>>>>>> Stashed changes
