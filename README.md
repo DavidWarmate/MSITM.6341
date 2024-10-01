@@ -1,2 +1,6 @@
 # MSITM.6341
-# William's Favorite Language: Python
+
+# Jiwon's Favorite Programming Language: Python
+# David's Favorite Programming Language: Python
+# Alonso's Favorite Programming Language: Python
+
