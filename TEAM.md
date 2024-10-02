@@ -1,4 +1,4 @@
 
- Alonso - Working on feature X
+ Team Member: Alonso - Working on feature X
 
 # Team Member: William - Working on Feature W
