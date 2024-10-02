@@ -1,4 +1,2 @@
 
-"Team Member: Alonso -Working on feature X"
-
-
+ Alonso - Working on feature X
